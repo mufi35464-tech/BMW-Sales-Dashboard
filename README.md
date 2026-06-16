@@ -1,21 +1,34 @@
 # BMW Sales Dashboard
 
 ## Project Overview
-This project analyzes BMW sales performance from 2020 to 2024 using Microsoft Excel.
+
+This project analyzes BMW sales performance from 2020 to 2024 using Microsoft Excel. The dashboard provides insights into sales volume, average price, best-selling models, regional performance, and fuel type trends.
 
 ## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Data Visualization
-- Dashboard Design
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Data Visualization
+
+## Key Features
+
+* Total Sales Volume Analysis
+* Average Price Tracking
+* Best-Selling Model Identification
+* Regional Sales Performance
+* Fuel Type Analysis
+* Interactive Dashboard Filters
 
 ## Key Insights
-- Total Sales Volume: 84.9M+
-- Best Selling Model: 7 Series
-- Best Performing Region: Europe
-- Sales Trend Analysis
-- Fuel Type Analysis
+
+* Identified top-performing BMW models based on sales.
+* Analyzed regional sales trends and market performance.
+* Compared sales across different fuel types.
+* Tracked yearly sales growth and performance metrics.
 
 ## Dashboard Preview
 
-Dashboard screenshot available in this repository.
+Dashboard screenshot is available in this repository.
+
+
